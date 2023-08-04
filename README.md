@@ -63,6 +63,6 @@ A chess clock is a device that is used to measure the time taken by each player 
 </ol> 
 
 # contact
-feel free to feedback me @krsaurav199@gmail.com
+Please feel free to provide feedback and discuss the project with me. @krsaurav199@gmail.com
 
-Thank you all for coming to this page.🙏🙏🙏
+Thank you for visiting this page..🙏🙏🙏
