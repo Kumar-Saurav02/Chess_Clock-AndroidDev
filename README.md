@@ -26,18 +26,34 @@ A chess clock is a device that is used to measure the time taken by each player 
       <img src="https://github.com/Kumar-Saurav02/Chess_Clock-AndroidDev/assets/105942875/b4b4d3d0-c90a-409d-ae8e-a149643a68e8" height="400" width="200" >
   </li>
   <li>
-      prevent the use of the accedental reset button<br><br>
+      prevent the use of the accidental reset button<br><br>
       <img src="https://github.com/Kumar-Saurav02/Chess_Clock-AndroidDev/assets/105942875/9bb55e53-bdfe-40c7-b47c-6244a90cdd74" height="400" width="200" >
   </li>
-  <li>allow the user to play and pause the timer.<br><br></li>
+  <li>
+    allow the user to play and pause the timer.<br><br>
+    <img src="https://github.com/Kumar-Saurav02/Chess_Clock-AndroidDev/assets/105942875/14140807-ef9d-4670-bd7e-f3418226ca6a" height="400" width="200" >
+    
+  </li>
+  <li>
+    Other<br><br>
+    <img src="https://github.com/Kumar-Saurav02/Chess_Clock-AndroidDev/assets/105942875/78be4efa-2386-40e2-acbd-d332257271c5" height="400" width="200" >
+  </li>
+
+  <li> play and pause button<br>
+      <img src="https://github.com/Kumar-Saurav02/Chess_Clock-AndroidDev/assets/105942875/bcdb4e3c-6a82-45a2-82f5-fc905b6d940a" width="40" >
+      <img src="https://github.com/Kumar-Saurav02/Chess_Clock-AndroidDev/assets/105942875/1b3ebd67-8e69-43bd-bbad-8440df784431" width="40" >  
+  </li>
+
+  <li>reset button <br>
+      <img src="https://github.com/Kumar-Saurav02/Chess_Clock-AndroidDev/assets/105942875/fdbd3f25-e0a7-4b92-98fc-853fcce9654e" width="40" >
+  </li>
+  <li>
+    set timer button <br>
+    <img src="https://github.com/Kumar-Saurav02/Chess_Clock-AndroidDev/assets/105942875/452e7b79-af90-4c79-9025-8e699c0c17c6" width="40">
+  </li>
   
-
-
-
-  
+ 
 </ul>
-
-
 
 
 # things
