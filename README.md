@@ -56,7 +56,7 @@ A chess clock is a device that is used to measure the time taken by each player 
 </ul>
 
 
-# things
+# Changes are possible.
 <ol>
   <li>Addition can be done we can keep track of the number of moves made.</li>
   <li>can increase the time range for coustmizaton.</li>
